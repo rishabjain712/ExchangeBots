@@ -1,7 +1,7 @@
 # ExchangeBots
 A Curated list of automated CryptoCurrency trading bots:
 <ul>
-<li><a href="https://github.com/owocki/pytrader">pytrader</a></li>
+<li><a target="_blank" href="https://github.com/owocki/pytrader">pytrader</a></li>
 <li><a href=""https://github.com/askmike/gekko">gekko</a></li>
 <li><a href="https://github.com/carlos8f/zenbot">zenbot</a></li>
 <li><a href="https://github.com/michaelgrosner/tribeca">tribeca</a></li>
