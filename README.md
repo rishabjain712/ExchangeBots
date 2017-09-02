@@ -45,4 +45,4 @@ A Curated list of automated CryptoCurrency trading bots:
 <li><a href="https://play.google.com/store/apps/details?id=co.bandicoot.ztrader&hl=en">zTrader Altcoin/Bitcoin trader - Android</a></li>
 </ul>
 
-<font color="red"><h3>Note - The order of the bots is not according to their rating.<h3></font>
+<h3>Note - The order of the bots is not according to their rating.<h3>
