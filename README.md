@@ -1,5 +1,5 @@
 # ExchangeBots
-A Curated list of automated CryptoCurrency trading bots
+A Curated list of automated CryptoCurrency trading bots:
 <ul>
 <li><a href="https://github.com/owocki/pytrader">pytrader</a></li>
 <li><a href=""https://github.com/askmike/gekko">gekko</a></li>
@@ -45,4 +45,4 @@ A Curated list of automated CryptoCurrency trading bots
 <li><a href="https://play.google.com/store/apps/details?id=co.bandicoot.ztrader&hl=en">zTrader Altcoin/Bitcoin trader - Android</a></li>
 </ul>
 
-Note - The order of the bots is not according to their rating.
+<h3>Note - The order of the bots is not according to their rating.<h3>
