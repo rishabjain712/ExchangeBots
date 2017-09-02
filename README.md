@@ -21,7 +21,6 @@ A Curated list of automated CryptoCurrency trading bots
 <li><a href="https://github.com/aido/AidoATP">AidoATP</a></li>
 <li><a href="https://github.com/alexmbird/luckyhorse">Luckyhorse</a></li>
 <li><a href="https://github.com/tomholub/coinbaseorders">Coinbaseorders</a></li>
-<li><a href="https://play.google.com/store/apps/details?id=com.thanksmister.coinbasetrader">Bitcoin Trader for Coinbase - Android</a></li>
 <li><a href="https://stopcoin.com/">StopCoin</a></li>
 <li><a href="https://cryptotrader.org/">Cryptotrader</a></li>
 <li><a href="https://github.com/codingdna2/easybot">Easybot</a></li>
@@ -40,4 +39,10 @@ A Curated list of automated CryptoCurrency trading bots
 <li><a href="https://github.com/AdamCox9/nickelbot">Nickelbot</a></li>
 <li><a href="http://www.btcrobot.com/">BTCRobot</a></li>
 <li><a href="https://tradewave.net/">Tradewave</a></li>
+<li><a href="http://www.cryptocointrade.com/">Cryptocointrade</a></li>
+<li><a href="https://github.com/joeldg/bowhead">Bowhead</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.tahri.cryptocbot&hl=en">CryptoCurrency Bot - Android</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=co.bandicoot.ztrader&hl=en">zTrader Altcoin/Bitcoin trader - Android</a></li>
 </ul>
+
+Note - The order of the bots is not according to their rating.
